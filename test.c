@@ -1,7 +1,7 @@
 # include<stdio.h>
 int main()
 {
-    printf("123");
+    printf("Bye bye, bin");
     return 0;
 
 }
