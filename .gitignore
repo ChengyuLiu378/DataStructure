@@ -5,3 +5,5 @@
 main
 a.out
 *.gdb
+.bin/
+.复习/bin
