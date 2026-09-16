@@ -1,2 +1,7 @@
-test
-.vscode/tasks.json
+.vscode/
+*.o
+*.out
+*.exe
+main
+a.out
+*.gdb
